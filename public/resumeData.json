@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name":"Shubham Kumar",
+    "occupation":"Full-Stack Web Developer",
+    "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.jpg",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "shubh70555@gmail.com",
+    "phone": "+91 8789711129",
+    "address":{
+      "city":"Muzaffarpur",
+      "state":"Bihar",
+      "zip": "10050"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:shubh70555@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Dehradun Institute of Technology",
+        "degree":"B Tech ( Information Technology )",
+        "graduated":"May 2019",
+        "description":""
+      },
+      {
+        "school":"Shri Nawab High School",
+        "degree":"Intermediate",
+        "graduated":"April 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company": "LuminoGuru Pvt Ltd",
+        "title": "Software Developer",
+        "years": "April 2022 - Present",
+        "description": "Researched, designed and managed software programs, as well as testing and evaluating new programs. Modified software to fix errors and improve its performance. Made use of deploying software tools, processes and metrics for performance and overall platform improvements. Directed software programming and documentation development, wrote and implemented code. Prepared reports on programming project specifications, activities, or status of current project. Consulted with engineering staff to evaluate software-hardware interfaces and developed specifications and performance requirements."
+      },
+      {
+        "company":"Buzzclan LLC",
+        "title":"Software Engineer",
+        "years":"August 2020 - December 2020",
+        "description":"Built the backend authentication platform for their main website (still being developed). Contributed to the team with small tasks, such as code review, TDD Development, design improvements, etc."
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Shubham has a great mentality that always seeks to improve his skills. His discipline makes working with him easy and challenging at the same time. He loves to share his ideas and accomplishments with other people, which makes him very easily leave an impact in any working environment.",
+        "user":"Rahul Behl | Director at LuminoGuru Pvt Ltd"
+      },
+      {
+        "text":"I worked with Shubham at Buzzclan. Shubham is detailed orientated, has advanced system engineering and problem-solving skills. He has the ability to effectively manage several tasks at a time.",
+        "user":"Shivam Sharma | Software Engineer - Full Stack PHP at Buzzclan LLC"
+      }
+    ]
+  }
+}
