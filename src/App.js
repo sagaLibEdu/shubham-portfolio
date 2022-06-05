@@ -25,7 +25,7 @@ class App extends Component {
     const load = document.getElementById('siteLoading');
 
     $.ajax({
-      url:'/resumeData.json',
+      url:'/shubham-portfolio/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
